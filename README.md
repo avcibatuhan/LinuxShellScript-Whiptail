@@ -21,3 +21,6 @@ Tüm Kayıtları Göster Seçeneğini Seçmişsek Kayıtlı Olanları Gösteriyo
 Eğer Kayıt Sil Seçeneğini Seçmişsek Silmek İstediğimiz Veriyi İstiyor:
 ![KayitSil](https://user-images.githubusercontent.com/43846788/104761038-568f0080-5773-11eb-9807-6602f35a5004.png)
 
+Son Olarak Çıkış Seçeneğini Seçmişsek Emin Misiniz Diye Soruyor : 
+![cikis](https://user-images.githubusercontent.com/43846788/104762985-4f1d2680-5776-11eb-8b60-dfa98c3f521c.png)
+
